@@ -1,1 +1,1 @@
-This project revolves around an autonomous drone specially designed to follow a predefined path. The lane configuration is unique, with my name placed on the XY axis and my roll number on the YZ axis. In addition, I created a simulated environment similar to a parking lot. The drone code is carefully designed to accurately track my name in the XY plane and my roll number in the YZ plane.
+This assignment has a drone which traces the path that has my name in xy axis and my roll no in yz axis. Additionally I have created a house based environment for my assignment.
